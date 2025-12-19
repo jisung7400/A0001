@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{F5428593-5EDA-40E4-BEC3-11BDB9AFD45C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FC87A46-0306-477B-A923-3B83AD53DCAB}|class 5th (conditional statement)\\class 5th (conditional statement).vcxproj|C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 5th (conditional statement)\\sourec.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2FC87A46-0306-477B-A923-3B83AD53DCAB}|class 5th (conditional statement)\\class 5th (conditional statement).vcxproj|solutionrelative:class 5th (conditional statement)\\sourec.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92A24B48-5797-4639-942F-C6CAEEE0A3A4}|Class2th (Variable \u0026 Constant)\\Class2th (Variable \u0026 Constant).vcxproj|C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\Class2th (Variable \u0026 Constant)\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{92A24B48-5797-4639-942F-C6CAEEE0A3A4}|Class2th (Variable \u0026 Constant)\\Class2th (Variable \u0026 Constant).vcxproj|solutionrelative:Class2th (Variable \u0026 Constant)\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E67CF1B6-7704-4F81-BD70-A01B71661573}|class 3th (bat)\\class 3th (bat).vcxproj|C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 3th (bat)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E67CF1B6-7704-4F81-BD70-A01B71661573}|class 3th (bat)\\class 3th (bat).vcxproj|solutionrelative:class 3th (bat)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D968444B-894F-4FC6-96BE-55C0157AC3A5}|class 6th (lteration st)\\class 6th (lteration st).vcxproj|C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 6th (lteration st)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D968444B-894F-4FC6-96BE-55C0157AC3A5}|class 6th (lteration st)\\class 6th (lteration st).vcxproj|solutionrelative:class 6th (lteration st)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,44 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "sourec.c",
-              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 5th (conditional statement)\\sourec.c",
-              "RelativeDocumentMoniker": "class 5th (conditional statement)\\sourec.c",
-              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 5th (conditional statement)\\sourec.c",
-              "RelativeToolTip": "class 5th (conditional statement)\\sourec.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-18T11:17:16.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 3th (bat)\\source.c",
-              "RelativeDocumentMoniker": "class 3th (bat)\\source.c",
-              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 3th (bat)\\source.c",
-              "RelativeToolTip": "class 3th (bat)\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 6th (lteration st)\\source.c",
+              "RelativeDocumentMoniker": "class 6th (lteration st)\\source.c",
+              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 6th (lteration st)\\source.c",
+              "RelativeToolTip": "class 6th (lteration st)\\source.c",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwF8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-15T12:13:36.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "\uC18C\uC2A4.cpp",
-              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\Class2th (Variable \u0026 Constant)\\\uC18C\uC2A4.cpp",
-              "RelativeDocumentMoniker": "Class2th (Variable \u0026 Constant)\\\uC18C\uC2A4.cpp",
-              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\Class2th (Variable \u0026 Constant)\\\uC18C\uC2A4.cpp",
-              "RelativeToolTip": "Class2th (Variable \u0026 Constant)\\\uC18C\uC2A4.cpp",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAF0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-12T11:35:13.771Z"
+              "WhenOpened": "2025-12-19T11:22:10.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,7 +41,7 @@
               "RelativeDocumentMoniker": "Project1\\source.c",
               "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\Project1\\source.c",
               "RelativeToolTip": "Project1\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-11T11:27:00.822Z",
               "EditorCaption": ""
