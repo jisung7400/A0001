@@ -5,15 +5,17 @@ VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "program", "Project1\Project1.vcxproj", "{F5428593-5EDA-40E4-BEC3-11BDB9AFD45C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class1th(compile)", "class1th(compile)1\class1th(compile)1.vcxproj", "{43B9B750-8347-4A78-BA72-1BA5BFB16B7C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 1th(compile)", "class1th(compile)1\class1th(compile)1.vcxproj", "{43B9B750-8347-4A78-BA72-1BA5BFB16B7C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th (Variable & Constant)", "Class2th (Variable & Constant)\Class2th (Variable & Constant).vcxproj", "{92A24B48-5797-4639-942F-C6CAEEE0A3A4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 2th (Variable & Constant)", "Class2th (Variable & Constant)\Class2th (Variable & Constant).vcxproj", "{92A24B48-5797-4639-942F-C6CAEEE0A3A4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class 3th (bat)", "class 3th (bat)\class 3th (bat).vcxproj", "{E67CF1B6-7704-4F81-BD70-A01B71661573}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 3th (bat)", "class 3th (bat)\class 3th (bat).vcxproj", "{E67CF1B6-7704-4F81-BD70-A01B71661573}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class5th (Conditional Statement)", "class 5th (conditional statement)\class 5th (conditional statement).vcxproj", "{2FC87A46-0306-477B-A923-3B83AD53DCAB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 5th (Conditional Statement)", "class 5th (conditional statement)\class 5th (conditional statement).vcxproj", "{2FC87A46-0306-477B-A923-3B83AD53DCAB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class 6th (lteration st)", "class 6th (lteration st)\class 6th (lteration st).vcxproj", "{D968444B-894F-4FC6-96BE-55C0157AC3A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class7th (Type Conversion)", "Class7th (Type Conversion)\Class7th (Type Conversion).vcxproj", "{3F8207AF-0609-4C12-BB30-95D2F16FB341}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,14 @@ Global
 		{D968444B-894F-4FC6-96BE-55C0157AC3A5}.Release|x64.Build.0 = Release|x64
 		{D968444B-894F-4FC6-96BE-55C0157AC3A5}.Release|x86.ActiveCfg = Release|Win32
 		{D968444B-894F-4FC6-96BE-55C0157AC3A5}.Release|x86.Build.0 = Release|Win32
+		{3F8207AF-0609-4C12-BB30-95D2F16FB341}.Debug|x64.ActiveCfg = Debug|x64
+		{3F8207AF-0609-4C12-BB30-95D2F16FB341}.Debug|x64.Build.0 = Debug|x64
+		{3F8207AF-0609-4C12-BB30-95D2F16FB341}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F8207AF-0609-4C12-BB30-95D2F16FB341}.Debug|x86.Build.0 = Debug|Win32
+		{3F8207AF-0609-4C12-BB30-95D2F16FB341}.Release|x64.ActiveCfg = Release|x64
+		{3F8207AF-0609-4C12-BB30-95D2F16FB341}.Release|x64.Build.0 = Release|x64
+		{3F8207AF-0609-4C12-BB30-95D2F16FB341}.Release|x86.ActiveCfg = Release|Win32
+		{3F8207AF-0609-4C12-BB30-95D2F16FB341}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

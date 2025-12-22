@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F5428593-5EDA-40E4-BEC3-11BDB9AFD45C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F8207AF-0609-4C12-BB30-95D2F16FB341}|Class7th (Type Conversion)\\Class7th (Type Conversion).vcxproj|C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\Class7th (Type Conversion)\\soure.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F8207AF-0609-4C12-BB30-95D2F16FB341}|Class7th (Type Conversion)\\Class7th (Type Conversion).vcxproj|solutionrelative:Class7th (Type Conversion)\\soure.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D968444B-894F-4FC6-96BE-55C0157AC3A5}|class 6th (lteration st)\\class 6th (lteration st).vcxproj|C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 6th (lteration st)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D968444B-894F-4FC6-96BE-55C0157AC3A5}|class 6th (lteration st)\\class 6th (lteration st).vcxproj|solutionrelative:class 6th (lteration st)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -18,19 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 6th (lteration st)\\source.c",
               "RelativeDocumentMoniker": "class 6th (lteration st)\\source.c",
               "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\class 6th (lteration st)\\source.c",
               "RelativeToolTip": "class 6th (lteration st)\\source.c",
-              "ViewState": "AgIAADYAAAAAAAAAAAAUwF8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAF8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-19T11:22:10.746Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "soure.c",
+              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\Class7th (Type Conversion)\\soure.c",
+              "RelativeDocumentMoniker": "Class7th (Type Conversion)\\soure.c",
+              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\Class7th (Type Conversion)\\soure.c",
+              "RelativeToolTip": "Class7th (Type Conversion)\\soure.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-22T11:06:21.658Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +59,9 @@
               "RelativeDocumentMoniker": "Project1\\source.c",
               "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBB38\uC11C\\GitHub\\A0001\\source\\repos\\Project1\\Project1\\source.c",
               "RelativeToolTip": "Project1\\source.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-11T11:27:00.822Z",
+              "WhenOpened": "2025-12-22T11:06:13.45Z",
               "EditorCaption": ""
             }
           ]
