@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\class1th%28compile%29\source.c">
+    <ClCompile Include="soure.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
